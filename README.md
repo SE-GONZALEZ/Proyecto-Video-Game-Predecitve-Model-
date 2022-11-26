@@ -17,7 +17,7 @@ Este proyecto utilizo la herramienta Visual Studio Code con un lenguaje de progr
 [![KNN.png](https://i.postimg.cc/FRpcQfxS/KNN.png)](https://postimg.cc/Q9BVQdwN)
 [![Decision-TREE.png](https://i.postimg.cc/d08r4Nk4/Decision-TREE.png)](https://postimg.cc/yJ8DNPTZ)
 
-Los catos proporcionados en el conjunto de datos están bastante descorrelacionados entre sí, para obtener un mejor resultado el conjunto de datos puede mejorar si desea analizarlo mediante de un modelo de aprendizaje automático.
+Los datos proporcionados en el conjunto de datos están bastante descorrelacionados entre sí, para obtener un mejor resultado el conjunto de datos puede mejorar si desea analizarlo mediante de un modelo de aprendizaje automático.
 
 Link:
-https://youtu.be/alCgHVV9Okg
+
