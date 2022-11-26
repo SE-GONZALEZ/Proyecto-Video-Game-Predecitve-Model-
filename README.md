@@ -19,5 +19,5 @@ Este proyecto utilizo la herramienta Visual Studio Code con un lenguaje de progr
 
 Los datos proporcionados en el conjunto de datos están bastante descorrelacionados entre sí, para obtener un mejor resultado el conjunto de datos puede mejorar si desea analizarlo mediante de un modelo de aprendizaje automático.
 
-Link:
+Link:https://www.youtube.com/watch?v=9gelV7wpy8Q
 
