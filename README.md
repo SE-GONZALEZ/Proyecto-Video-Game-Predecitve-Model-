@@ -11,15 +11,13 @@ Este proyecto utilizo la herramienta Visual Studio Code con un lenguaje de progr
 3. Se normalizaron los datos donde posteriormente se realizo PCA
 4. Al comprobar los datos obtenidos en PCA fue necesario utilizar los 5 pliegues ya que cada una de los componentes de la variable X aportan información importante en la predicción que se va a desarrollar durante el código.
 [![PCA.png](https://i.postimg.cc/x8173zCT/PCA.png)](https://postimg.cc/tZ82X7WL)
-6. Después se realizó un gridsearch y cross-validación utilizando GridSearchCV para optimizar los hiperparametros de los diferentes modelos para R2, arrojando los mejores parametros del módelo seleccionado con el Score más alto.
+6. Después se realizó un gridsearch y cross-validación utilizando GridSearchCV para optimizar los hiperparametros de los diferentes módelos para R2, arrojando los mejores parametros del módelo seleccionado para obtener el mejor Score.
 7. Los módelos utilizados fueron KNN donde se varió la métrica y peso de la distancia, Decision Tree se varió el criterio y profundidad de los árboles y para finalizar se utilizo Maquina de vectores de soporte "SMV"
 [![SVM.png](https://i.postimg.cc/Qth5Pgcs/SVM.png)](https://postimg.cc/R3pNJHPb)
 [![KNN.png](https://i.postimg.cc/FRpcQfxS/KNN.png)](https://postimg.cc/Q9BVQdwN)
 [![Decision-TREE.png](https://i.postimg.cc/d08r4Nk4/Decision-TREE.png)](https://postimg.cc/yJ8DNPTZ)
 
-
-CONCLUSION:
-The data given in the dataset is quite decorrelated to each other, demonstrating why the existence of chocolate tasters (people) and that the dataset can be improved if you want to analyze it using a machine learning model.
+Los catos proporcionados en el conjunto de datos están bastante descorrelacionados entre sí, para obtener un mejor resultado el conjunto de datos puede mejorar si desea analizarlo mediante de un modelo de aprendizaje automático.
 
 Link:
 https://youtu.be/alCgHVV9Okg
